@@ -45,7 +45,7 @@ This project is a comprehensive collection of cryptographic tools and modules im
 ## Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone [<repository_url>](https://github.com/maxamin/Babyk-RWSC.git)
+   git clone https://github.com/maxamin/Babyk-RWSC.git
    ```
 2. **Open the solution**:
    Open `Proj.sln` in Visual Studio.
