@@ -3,7 +3,7 @@
 ## Ethical Disclaimer
 This project is for educational and research purposes only. Any misuse of the code for malicious purposes is strictly prohibited. The authors are not responsible for any damage caused by the misuse of this code.
 ## Description
-This project is a comprehensive collection of cryptographic tools and modules implemented in C++. It includes various cryptographic algorithms, hash functions, and supporting utilities, organized into distinct modules. The project is structured to facilitate modular development and testing within Visual Studio.
+This project is a Ransomware which uses comprehensive collection of cryptographic tools and modules implemented in C++. It includes various cryptographic algorithms, hash functions, and supporting utilities, organized into distinct modules. The project is structured to facilitate modular development and testing within Visual Studio.
 
 ## Project Structure
 - **Proj.sln**: Solution file for Visual Studio.
